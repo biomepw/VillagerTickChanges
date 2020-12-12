@@ -1,0 +1,5 @@
+name: VillagerTickChanges
+version: ${project.version}
+main: pw.biome.villagertickchanges.VillagerTickChanges
+api-version: 1.16
+load: POSTWORLD
